@@ -41,6 +41,16 @@ body, html {
   stroke-dashoffset: 150;
 }
 
+h3{
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 23px;
+  font-weight: 100;
+  position: absolute;
+  bottom: -55px;
+  margin-left: 3.4rem;
+}
+
 h1{
   color: white;
   font-family: 'Courier New', Courier, monospace;
